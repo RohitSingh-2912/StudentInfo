@@ -1,0 +1,14 @@
+C:\Users\RohitS\source\repos\StudentInfo\StudentInfo\bin\Debug\netcoreapp2.2\StudentInfo.deps.json
+C:\Users\RohitS\source\repos\StudentInfo\StudentInfo\bin\Debug\netcoreapp2.2\StudentInfo.runtimeconfig.json
+C:\Users\RohitS\source\repos\StudentInfo\StudentInfo\bin\Debug\netcoreapp2.2\StudentInfo.runtimeconfig.dev.json
+C:\Users\RohitS\source\repos\StudentInfo\StudentInfo\bin\Debug\netcoreapp2.2\StudentInfo.dll
+C:\Users\RohitS\source\repos\StudentInfo\StudentInfo\bin\Debug\netcoreapp2.2\StudentInfo.pdb
+C:\Users\RohitS\source\repos\StudentInfo\StudentInfo\obj\Debug\netcoreapp2.2\StudentInfo.csprojAssemblyReference.cache
+C:\Users\RohitS\source\repos\StudentInfo\StudentInfo\obj\Debug\netcoreapp2.2\StudentInfo.csproj.CoreCompileInputs.cache
+C:\Users\RohitS\source\repos\StudentInfo\StudentInfo\obj\Debug\netcoreapp2.2\StudentInfo.RazorAssemblyInfo.cache
+C:\Users\RohitS\source\repos\StudentInfo\StudentInfo\obj\Debug\netcoreapp2.2\StudentInfo.RazorAssemblyInfo.cs
+C:\Users\RohitS\source\repos\StudentInfo\StudentInfo\obj\Debug\netcoreapp2.2\StudentInfo.AssemblyInfoInputs.cache
+C:\Users\RohitS\source\repos\StudentInfo\StudentInfo\obj\Debug\netcoreapp2.2\StudentInfo.AssemblyInfo.cs
+C:\Users\RohitS\source\repos\StudentInfo\StudentInfo\obj\Debug\netcoreapp2.2\StudentInfo.RazorTargetAssemblyInfo.cache
+C:\Users\RohitS\source\repos\StudentInfo\StudentInfo\obj\Debug\netcoreapp2.2\StudentInfo.dll
+C:\Users\RohitS\source\repos\StudentInfo\StudentInfo\obj\Debug\netcoreapp2.2\StudentInfo.pdb
